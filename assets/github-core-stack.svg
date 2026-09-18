@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="340" viewBox="0 0 700 340" role="img" aria-labelledby="title desc">
+  <title id="title">Zsena core technology stack</title>
+  <desc id="desc">A technology diagram featuring Go, React, Python, C Sharp and .NET, TypeScript, PHP, Vue and Docker.</desc>
+  <rect width="700" height="340" rx="14" fill="#f7faff"/>
+  <rect x="1" y="1" width="698" height="338" rx="13" fill="none" stroke="#d4dfed" stroke-width="2"/>
+  <text x="38" y="55" fill="#111823" font-family="Arial, sans-serif" font-size="30" font-weight="700">Core technologies</text>
+  <text x="38" y="82" fill="#66728a" font-family="Arial, sans-serif" font-size="15">Languages, frameworks and tools I work with</text>
+  <g font-family="Arial, sans-serif" font-weight="700" font-size="17" text-anchor="middle">
+    <circle cx="116" cy="159" r="52" fill="#00add8"/><text x="116" y="165" fill="#fff">Go</text>
+    <circle cx="235" cy="159" r="52" fill="#20232a"/><text x="235" y="165" fill="#61dafb">React</text>
+    <circle cx="354" cy="159" r="52" fill="#3776ab"/><text x="354" y="165" fill="#ffd43b">Python</text>
+    <circle cx="473" cy="159" r="52" fill="#512bd4"/><text x="473" y="155" fill="#fff">C#</text><text x="473" y="175" fill="#fff" font-size="12">/.NET</text>
+    <circle cx="592" cy="159" r="52" fill="#3178c6"/><text x="592" y="165" fill="#fff">TS</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle">
+    <rect x="55" y="244" width="124" height="48" rx="24" fill="#777bb4"/><text x="117" y="274" fill="#fff">PHP</text>
+    <rect x="211" y="244" width="124" height="48" rx="24" fill="#42b883"/><text x="273" y="274" fill="#fff">Vue</text>
+    <rect x="367" y="244" width="124" height="48" rx="24" fill="#2496ed"/><text x="429" y="274" fill="#fff">Docker</text>
+    <rect x="523" y="244" width="124" height="48" rx="24" fill="#d4c1ff"/><text x="585" y="274" fill="#111823">Tailwind</text>
+  </g>
+</svg>
